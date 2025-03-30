@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mingyu Mei
 
-- 👀 I’m interested in Embodied AI, Robot learning，3D Vision
+- 👀 I’m interested in Embodied AI, Robot learning, 3D Vision
 - 🌱 I’m currently researching  VLA and 6D Pose Estimation
 - 💞️ I’m looking to collaborate on multimodal perception and robotic manipulation
 - 📫 How to reach me zming6660121@gmail.com
